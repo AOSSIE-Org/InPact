@@ -68,6 +68,7 @@ Ensure you have the following installed:
 ```sh
 git clone https://github.com/AOSSIE-Org/InPact.git
 cd inpact
+
 ```
 
 #### 2. Install Frontend Dependencies
@@ -160,6 +161,7 @@ We welcome contributions from the community! To contribute:
 5. Open a Pull Request.
 
 ---
+
 
 ## Overall Workflow
 
